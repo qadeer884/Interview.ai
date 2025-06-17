@@ -5,7 +5,7 @@
   Slow CV screening, scheduling delays, and inconsistent evaluations plague traditional recruitment. Interview.ai delivers fast, fair, and data‑driven candidate assessments with zero manual intervention.
 
 - **Role**  
-  Full‑Stack Developer 
+  Full‑Stack Developer (Next.js & FastAPI)
 
 - **Duration**  
   Mar 2025 – Jun 2025
@@ -28,10 +28,6 @@
 
 ## 📄 Workflow Diagram  
 
-📑 [View the Workflow PDF](interview_workflow.pdf)
-
 <p align="center">
-  <a href="interview_workflow.pdf">
-    <img src="interview_workflow.pdf#thumbnail" alt="Workflow Preview" width="400"/>
-  </a>
+  <img src="Interview.png" alt="Workflow Diagram Preview" width="500"/>
 </p>
